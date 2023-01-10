@@ -9,3 +9,6 @@ Here implemented a machine learning pipeline to train a classification model on 
 2. Download 109550199_Final_inference.ipynb
 3. Change the test dataset path and output csv file path
 6. Run or execute the ipynb file and will result in a csv file being created
+
+###My environment
+I used google colab to run my code.
